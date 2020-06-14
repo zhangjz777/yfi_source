@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * @author ZhangJZ
  * @date 10:07 下午  2020/6/1
- * @desc 资源Controller
+ * @desc youtube Controller
  */
 @RestController(value = "/youtube")
 public class YoutubeResourceController {

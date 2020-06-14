@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<jsoup.version>1.12.1</jsoup.version>
-		<htmlunit.version>2.25</htmlunit.version>
+		<htmlunit.version>2.40.0</htmlunit.version>
 	</properties>
 
 
